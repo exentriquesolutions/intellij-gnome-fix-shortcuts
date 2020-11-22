@@ -1,0 +1,1 @@
+# intellij-gnome-fix-shortcuts
