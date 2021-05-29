@@ -13,6 +13,8 @@ readonly KEYS=(
     "/org/gnome/desktop/wm/keybindings/switch-to-workspace-up"
     "/org/gnome/desktop/wm/keybindings/switch-to-workspace-left"
     "/org/gnome/desktop/wm/keybindings/switch-to-workspace-right"
+    "/org/gnome/desktop/wm/keybindings/move-to-workspace-down"
+    "/org/gnome/desktop/wm/keybindings/move-to-workspace-up"
     # To disable resetting a value, just comment out the line
 )
 readonly DISABLED_VALUE="['']"
